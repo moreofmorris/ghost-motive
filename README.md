@@ -1,7 +1,14 @@
-# Journal
+# Motive Ghost Theme
 
-A newsletter theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Journal, and only used for theme installation! If you're looking to contribute, head over to the main repository [here](https://github.com/TryGhost/Themes). If you're just looking to download the latest release, download the theme [here](https://github.com/TryGhost/Journal/archive/refs/heads/main.zip).
+This is a clone of the excellent [Journal](https://github.com/tryghost/journal) theme for [Ghost](https://github.com/tryghost/ghost). The aim is to use this as a basis for my own theme so it'll morph and change over time.
 
-# Copyright & License
+## Development
+Styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need Node, Yarn and Gulp installed globally. After that, from the theme's root directory:
 
-Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICENSE).
+```
+# Install
+yarn
+
+# Run build & watch for changes
+$ yarn dev
+```

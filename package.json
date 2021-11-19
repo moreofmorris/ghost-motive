@@ -1,16 +1,16 @@
 {
-    "name": "journal",
-    "description": "A Ghost theme",
-    "version": "1.0.0",
+    "name": "motive",
+    "description": "A custom theme based from Journal",
+    "version": "0.5.0",
     "engines": {
         "ghost": ">=4.0.0",
         "ghost-api": "v4"
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "James Morris",
+        "email": "me@jamesmorr.is",
+        "url": "https://jamesmorr.is"
     },
     "keywords": [
         "ghost",
